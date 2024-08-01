@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahul-singh92
+- 👋 Hi, I’m Rahul Singh Jadoun
 - 👀 I’m interested in Coding, playing pc games , book reading and learning new computer languages.
 - 🌱 I’m currently learning OOPS and WEB DDRVELOPMENT.
 - 💞️ I’m looking to collaborate on coding.
