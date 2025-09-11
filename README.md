@@ -50,14 +50,14 @@ I'm a passionate **Computer Science Engineering** student at **Indian Institute 
 
 ## 🎯 Featured Projects
 
-### 📱 [Friends Engineer Android App](https://github.com/Friends-Engineer)
+### 📱 [Friends Engineer Android App](https://github.com/rahul-singh92/Friends-Enginners-App)
 A comprehensive Android application with role-based authentication and management system.
 - **Role-based authentication** (Admin/Worker) using Firestore
 - **PDF schedule uploads** and advance request system
 - **PDF-to-Excel mapping** with department-wise access control
 - **Technologies:** Java, XML, Firestore, Android Studio
 
-### 📈 [Stock Trading Dashboard](https://github.com/Stocks-Dashboard)
+### 📈 [Stock Trading Dashboard](https://github.com/rahul-singh92/Stocks-Dashboard)
 Full-stack responsive web application for Indian NSE stocks with real-time analytics.
 - **FastAPI backend** with live & historical data via yfinance
 - **React frontend** with Chart.js for interactive visualization
@@ -65,7 +65,7 @@ Full-stack responsive web application for Indian NSE stocks with real-time analy
 - **Deployed on Render** with mobile optimization
 - **Technologies:** FastAPI, Python, React, Chart.js, scikit-learn
 
-### 🎮 [AssemblyEndgame Web Game](https://github.com/AssemblyEndgame)
+### 🎮 [AssemblyEndgame Web Game](https://rahul-singh92.github.io/Assembly-Endgame/)
 Interactive word-guessing game with programming language theme.
 - **Programming-themed gameplay** with C, C++, Java elements
 - **Dynamic character validation** and engaging UX
@@ -78,12 +78,6 @@ Interactive word-guessing game with programming language theme.
 - **CGPA:** 9.05/10.0  
 - **Class Rank:** 3rd
 
-## 💼 Experience
-
-**Virtual Internship - AI and Data Analytics** | *Edunet Foundation (AICTE)* | 4 weeks
-- Developed **AnimalClass Recognition system** achieving **86% accuracy**
-- Implemented **MobileNetV2** pre-trained model with transfer learning
-- Applied advanced techniques: GlobalAveragePooling2D, Dropout regularization, Adam optimizer
 
 ## 🏆 Achievements
 
