@@ -16,23 +16,41 @@ Computer Science Engineering student at **Indian Institute of Information Techno
 
 ## 🛠️ Technical Stack
 
-**Languages**  
-Python | C++ | JavaScript | TypeScript | Java | PHP | XML | XSL
+### Programming Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-**Web Development**  
-React.js | Next.js | Tailwind CSS | Chart.js | CSS | HTML
+### Web Development
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend & APIs**  
-FastAPI | REST APIs
+### Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-**Mobile Development**  
-Android (Java, XML)
+### Mobile Development
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-**Database & Cloud**  
-MySQL | MongoDB | Firestore | Firebase | Git | Render
+### Database & Cloud
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
-**AI/ML & Data**  
-TensorFlow | Keras | scikit-learn | pandas | numpy | MobileNetV2 | yfinance
+### AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
@@ -44,10 +62,10 @@ TensorFlow | Keras | scikit-learn | pandas | numpy | MobileNetV2 | yfinance
 Full-featured task management platform with team collaboration capabilities and customizable user interface.
 
 **Key Features:**
-- ⚡ Real-time todo synchronization and status updates across team members
-- 🎨 Custom user designs with dicebar avatars and Google image integration
-- ✨ Todo stack animations and smooth UI/UX interactions
-- 👥 Team management with invitation system
+-  Real-time todo synchronization and status updates across team members
+-  Custom user designs with dicebar avatars and Google image integration
+-  Todo stack animations and smooth UI/UX interactions
+-  Team management with invitation system
 
 **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Google Auth, Firestore
 
@@ -59,10 +77,10 @@ Full-featured task management platform with team collaboration capabilities and 
 AI-powered narrative generation platform that converts user imagination into narrated stories with text and voice input capabilities.
 
 **Key Features:**
-- 🌍 Multilingual support for diverse audiences
-- ⚙️ Customizable story parameters (mode, target audience, length)
-- 🔊 Voice settings with preview functionality
-- 💾 Local storage for session continuity
+-  Multilingual support for diverse audiences
+-  Customizable story parameters (mode, target audience, length)
+-  Voice settings with preview functionality
+-  Local storage for session continuity
 
 **Tech Stack:** Next.js, WebSocket, Gemini API, Murf AI (Text-to-Speech), Tailwind CSS
 
@@ -74,10 +92,10 @@ AI-powered narrative generation platform that converts user imagination into nar
 Comprehensive management system serving a 300-person organization with role-based authentication and document handling.
 
 **Key Features:**
-- 🔐 Role-based authentication system (Admin/Worker) with Firestore integration
-- 📄 PDF schedule upload and advance request management
-- 🔗 Unique PDF-to-Excel page mapping with department-wise access control
-- ⚡ Real-time Firestore updates and Firebase Storage integration
+-  Role-based authentication system (Admin/Worker) with Firestore integration
+-  PDF schedule upload and advance request management
+-  Unique PDF-to-Excel page mapping with department-wise access control
+-  Real-time Firestore updates and Firebase Storage integration
 
 **Tech Stack:** Java, XML, Firestore, Firebase Storage, Android Studio
 
@@ -89,10 +107,10 @@ Comprehensive management system serving a 300-person organization with role-base
 Full-stack responsive platform for Indian NSE stocks with real-time analytics and predictive modeling.
 
 **Key Features:**
-- 📊 FastAPI backend with yfinance for live and historical data
-- 📉 Interactive Chart.js visualizations
-- 🤖 Machine Learning predictions using Linear Regression
-- 📱 Mobile-optimized responsive design
+-  FastAPI backend with yfinance for live and historical data
+-  Interactive Chart.js visualizations
+-  Machine Learning predictions using Linear Regression
+-  Mobile-optimized responsive design
 
 **Tech Stack:** FastAPI, Python, yfinance, pandas, scikit-learn, React, Chart.js, CSS
 
@@ -149,5 +167,5 @@ Full-stack responsive platform for Indian NSE stocks with real-time analytics an
 ---
 
 <div align="center">
-  <sub>Last updated: October 2025</sub>
+  <i>⭐️ From <a href="https://github.com/rahul-singh92">rahul-singh92</a></i>
 </div>
