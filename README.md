@@ -1,91 +1,130 @@
-# Hi there! 👋 I'm Rahul Singh Jadoun
+# Rahul Singh Jadoun
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Mobile+App+Developer;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+## About
 
-I'm a passionate **Computer Science Engineering** student at **Indian Institute of Information Technology, Manipur** with a strong focus on full-stack development, mobile applications, and artificial intelligence. Currently maintaining a **9.05/10.0 CGPA** and ranked **3rd in my class**.
+Computer Science Engineering student at **Indian Institute of Information Technology, Manipur** specializing in full-stack development, mobile applications, and artificial intelligence. Currently maintaining a **9.05/10.0 CGPA** and ranked **3rd in class**.
 
-- 🎓 B.Tech CSE student (2023-2027) at IIIT Manipur
-- 💻 Full-stack developer with expertise in React, FastAPI, and mobile development
-- 🤖 AI/ML enthusiast with hands-on experience in transfer learning and data analytics
-- 📱 Android app developer with Firebase integration experience
-- 🌱 Always learning and exploring new technologies
+**Current Focus:** Building scalable web3 applications with Blockchains Integrated, modern frameworks and developing AI-powered solutions.
 
-## 🛠️ Technical Skills
+**Education:** B.Tech in Computer Science and Engineering (2023-2027) | IIIT Manipur
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+## Technical Stack
 
-### Backend & Mobile
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+**Languages**  
+Python | C++ | JavaScript | TypeScript | Java | PHP | XML | XSL
 
-### Database & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Web Development**  
+React.js | Next.js | Tailwind CSS | Chart.js | CSS | HTML
 
-### AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+**Backend & APIs**  
+FastAPI | REST APIs
 
-## 🎯 Featured Projects
+**Mobile Development**  
+Android (Java, XML)
 
-### 📱 [Friends Engineer Android App](https://github.com/rahul-singh92/Friends-Enginners-App)
-A comprehensive Android application with role-based authentication and management system.
-- **Role-based authentication** (Admin/Worker) using Firestore
-- **PDF schedule uploads** and advance request system
-- **PDF-to-Excel mapping** with department-wise access control
-- **Technologies:** Java, XML, Firestore, Android Studio
+**Database & Cloud**  
+MySQL | MongoDB | Firestore | Firebase | Git | Render
 
-### 📈 [Stock Trading Dashboard](https://github.com/rahul-singh92/Stocks-Dashboard)
-Full-stack responsive web application for Indian NSE stocks with real-time analytics.
-- **FastAPI backend** with live & historical data via yfinance
-- **React frontend** with Chart.js for interactive visualization
-- **Machine Learning predictions** using Linear Regression and SMA
-- **Deployed on Render** with mobile optimization
-- **Technologies:** FastAPI, Python, React, Chart.js, scikit-learn
+**AI/ML & Data**  
+TensorFlow | Keras | scikit-learn | pandas | numpy | MobileNetV2 | yfinance
 
-### 🎮 [AssemblyEndgame Web Game](https://rahul-singh92.github.io/Assembly-Endgame/)
-Interactive word-guessing game with programming language theme.
-- **Programming-themed gameplay** with C, C++, Java elements
-- **Dynamic character validation** and engaging UX
-- **Technologies:** React, JavaScript, CSS
+---
 
-## 🎓 Education
+## Featured Projects
 
-**Indian Institute of Information Technology, Manipur**  
-*B.Tech in Computer Science and Engineering* | Aug 2023 – May 2027  
-- **CGPA:** 9.05/10.0  
-- **Class Rank:** 3rd
+### Toddler - Collaborative Todo Application
+**[GitHub](https://github.com/rahul-singh92/Toddler) | [Live Demo](https://toddler-three.vercel.app/)**
 
+Full-featured task management platform with team collaboration capabilities and customizable user interface.
 
-## 🏆 Achievements
+**Key Features:**
+- Real-time todo synchronization and status updates across team members
+- Custom user designs with dicebar avatars and Google image integration
+- Todo stack animations and smooth UI/UX interactions
+- Team management with invitation system
 
-- 🥉 **3rd Rank** in B.Tech CSE class with 9.05/10.0 CGPA
-- 🏅 **Certificate of Achievement** from Google Developer Groups on Campus (July 2025)
-- 📜 **Spoken Tutorial Certificate** - C++ Training Completion (IIT Bombay)
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Google Auth, Firestore
 
-## 📊 GitHub Stats
+---
+
+### Voice Story Teller
+**[GitHub](https://github.com/rahul-singh92/Voice-Story-Teller) | [Live Demo](https://voice-story-teller.onrender.com/)**
+
+AI-powered narrative generation platform that converts user imagination into narrated stories with text and voice input capabilities.
+
+**Key Features:**
+- Multilingual support for diverse audiences
+- Customizable story parameters (mode, target audience, length)
+- Voice settings with preview functionality
+- Local storage for session continuity
+
+**Tech Stack:** Next.js, WebSocket, Gemini API, Murf AI (Text-to-Speech), Tailwind CSS
+
+---
+
+### Friends Engineer Android Application
+**[GitHub](https://github.com/rahul-singh92/Friends-Enginners-App) | [Play Store](https://play.google.com/store/apps/details?id=com.jitendersingh.friendsengineer)**
+
+Comprehensive management system serving a 300-person organization with role-based authentication and document handling.
+
+**Key Features:**
+- Role-based authentication system (Admin/Worker) with Firestore integration
+- PDF schedule upload and advance request management
+- Unique PDF-to-Excel page mapping with department-wise access control
+- Real-time Firestore updates and Firebase Storage integration
+
+**Tech Stack:** Java, XML, Firestore, Firebase Storage, Android Studio
+
+---
+
+### Stock Trading Dashboard
+**[GitHub](https://github.com/rahul-singh92/Stocks-Dashboard) | [Live Demo](https://stocks-dashboard-y9ka.onrender.com/)**
+
+Full-stack responsive platform for Indian NSE stocks with real-time analytics and predictive modeling.
+
+**Key Features:**
+- FastAPI backend with yfinance for live and historical data
+- Interactive Chart.js visualizations
+- Machine Learning predictions using Linear Regression
+- Mobile-optimized responsive design
+
+**Tech Stack:** FastAPI, Python, yfinance, pandas, scikit-learn, React, Chart.js, CSS
+
+**Note:** Initial load may require ~1 minute due to Render's free tier backend startup.
+
+---
+
+## Professional Experience
+
+**Android Development Internship** | Friends Engineers | 3 months
+- Sole developer of "My Setu" Android application with role-based authentication
+- Implemented Excel parser and PDF upload functionality
+- Built PDF-to-Excel page mapping system
+- Developed advance request system with real-time Firestore integration
+
+---
+
+## Recognition & Achievements
+
+**Academic Excellence**
+- Ranked 3rd in B.Tech CSE class with 9.05/10.0 CGPA
+
+**Industry Recognition**
+- Certificate of Merit - Naukri Campus Young Turks 2025 (99.14 percentile) | September 2025
+- Certificate of Achievement - Google Developer Groups on Campus (GDG) | July 2025
+
+**Technical Certification**
+- Spoken Tutorial Certificate - C++ Training Completion | IIT Bombay
+
+---
+
+## GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahul-singh92&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -99,18 +138,16 @@ Interactive word-guessing game with programming language theme.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-singh92&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-## 🤝 Let's Connect!
+---
 
-<div align="center">
-  
+## Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-singh-jadoun-7a846a28b)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahul-singh92)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulsinghjadoun09@gmail.com)
 
-</div>
-
 ---
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/rahul-singh92">rahul-singh92</a></i>
+  <sub>Last updated: October 2025</sub>
 </div>
