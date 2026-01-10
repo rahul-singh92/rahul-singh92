@@ -67,7 +67,7 @@ Computer Science Engineering student at **Indian Institute of Information Techno
 ## 🏆 Recognition & Achievements
 
 **Academic Excellence**
--  Ranked 3rd in B.Tech CSE class with 9.05/10.0 CGPA
+-  B.Tech 8.96/10.0 CGPA
 
 **Industry Recognition**
 -  ACM ICPC Regionalist - Jane Street & JetBrains | January 2026
