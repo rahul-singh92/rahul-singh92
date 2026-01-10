@@ -54,70 +54,6 @@ Computer Science Engineering student at **Indian Institute of Information Techno
 
 ---
 
-## 🚀 Featured Projects
-
-### 📝 Toddler - Collaborative Todo Application
-**[GitHub](https://github.com/rahul-singh92/Toddler) | [Live Demo](https://toddler-three.vercel.app/)**
-
-Full-featured task management platform with team collaboration capabilities and customizable user interface.
-
-**Key Features:**
--  Real-time todo synchronization and status updates across team members
--  Custom user designs with dicebar avatars and Google image integration
--  Todo stack animations and smooth UI/UX interactions
--  Team management with invitation system
-
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Google Auth, Firestore
-
----
-
-### 🎙️ Voice Story Teller
-**[GitHub](https://github.com/rahul-singh92/Voice-Story-Teller) | [Live Demo](https://voice-story-teller.onrender.com/)**
-
-AI-powered narrative generation platform that converts user imagination into narrated stories with text and voice input capabilities.
-
-**Key Features:**
--  Multilingual support for diverse audiences
--  Customizable story parameters (mode, target audience, length)
--  Voice settings with preview functionality
--  Local storage for session continuity
-
-**Tech Stack:** Next.js, WebSocket, Gemini API, Murf AI (Text-to-Speech), Tailwind CSS
-
----
-
-### 📱 Friends Engineer Android Application
-**[GitHub](https://github.com/rahul-singh92/Friends-Enginners-App) | [Play Store](https://play.google.com/store/apps/details?id=com.jitendersingh.friendsengineer)**
-
-Comprehensive management system serving a 300-person organization with role-based authentication and document handling.
-
-**Key Features:**
--  Role-based authentication system (Admin/Worker) with Firestore integration
--  PDF schedule upload and advance request management
--  Unique PDF-to-Excel page mapping with department-wise access control
--  Real-time Firestore updates and Firebase Storage integration
-
-**Tech Stack:** Java, XML, Firestore, Firebase Storage, Android Studio
-
----
-
-### 📈 Stock Trading Dashboard
-**[GitHub](https://github.com/rahul-singh92/Stocks-Dashboard) | [Live Demo](https://stocks-dashboard-y9ka.onrender.com/)**
-
-Full-stack responsive platform for Indian NSE stocks with real-time analytics and predictive modeling.
-
-**Key Features:**
--  FastAPI backend with yfinance for live and historical data
--  Interactive Chart.js visualizations
--  Machine Learning predictions using Linear Regression
--  Mobile-optimized responsive design
-
-**Tech Stack:** FastAPI, Python, yfinance, pandas, scikit-learn, React, Chart.js, CSS
-
-**Note:** Initial load may require ~1 minute due to Render's free tier backend startup.
-
----
-
 ## 💼 Professional Experience
 
 **Android Development Internship** | Friends Engineers | 3 months
@@ -131,14 +67,12 @@ Full-stack responsive platform for Indian NSE stocks with real-time analytics an
 ## 🏆 Recognition & Achievements
 
 **Academic Excellence**
-- 🥉 Ranked 3rd in B.Tech CSE class with 9.05/10.0 CGPA
+-  Ranked 3rd in B.Tech CSE class with 9.05/10.0 CGPA
 
 **Industry Recognition**
-- 🏅 Certificate of Merit - Naukri Campus Young Turks 2025 (99.14 percentile) | September 2025
-- 🎖️ Certificate of Achievement - Google Developer Groups on Campus (GDG) | July 2025
-
-**Technical Certification**
-- 📜 Spoken Tutorial Certificate - C++ Training Completion | IIT Bombay
+-  ACM ICPC Regionalist - Jane Street & JetBrains | January 2026
+-  Certificate of Merit - Naukri Campus Young Turks 2025 (99.14 percentile) | September 2025
+-  Certificate of Achievement - Google Developer Groups on Campus (GDG) | July 2025
 
 ---
 
