@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Mobile+App+Developer;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
-## 👨‍💻 About
+## About
 
 Computer Science Engineering student at **Indian Institute of Information Technology, Manipur** specializing in full-stack development, mobile applications, and artificial intelligence. Currently maintaining a **9.05/10.0 CGPA** and ranked **3rd in class**.
 
@@ -14,7 +14,7 @@ Computer Science Engineering student at **Indian Institute of Information Techno
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -54,7 +54,7 @@ Computer Science Engineering student at **Indian Institute of Information Techno
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 **Android Development Internship** | Friends Engineers | 3 months
 - Sole developer of "My Setu" Android application with role-based authentication
@@ -64,7 +64,7 @@ Computer Science Engineering student at **Indian Institute of Information Techno
 
 ---
 
-## 🏆 Recognition & Achievements
+## Recognition & Achievements
 
 **Academic Excellence**
 -  B.Tech 8.96/10.0 CGPA
@@ -76,23 +76,7 @@ Computer Science Engineering student at **Indian Institute of Information Techno
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul-singh92&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-singh92&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-singh92&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
-## 🤝 Connect
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-singh-jadoun-7a846a28b)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahul-singh92)
