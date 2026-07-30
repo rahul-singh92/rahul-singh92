@@ -6,49 +6,20 @@
 
 ## About
 
-Computer Science Engineering student at **Indian Institute of Information Technology, Manipur** specializing in full-stack development, mobile applications, and artificial intelligence. Currently maintaining a **9.05/10.0 CGPA** and ranked **3rd in class**.
+Computer Science Engineering student at **Indian Institute of Information Technology, Manipur** specializing in full-stack development, mobile applications, and artificial intelligence. Currently maintaining a **9.05/10.0 CGPA**.
 
-**Current Focus:** Building scalable web3 applications with Blockchains Integrated, modern frameworks and developing AI-powered solutions.
+**Current Focus:** Learning concepts of Software Engineer.
 
 **Education:** B.Tech in Computer Science and Engineering (2023-2027) | IIIT Manipur
-
----
-
-## Technical Stack
-
-### Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-### Web Development
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
-### Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-### Mobile Development
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### Database & Cloud
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
 ## Professional Experience
 
 **Android Development Internship** | Friends Engineers | 3 months
-- Sole developer of "My Setu" Android application with role-based authentication
+- Developer of "My Setu" Android application with role-based authentication
 - Implemented Excel parser and PDF upload functionality
-- Built PDF-to-Excel page mapping system
+- Built Excel to PDF system using iPDF handling large data and optimised space.
 - Developed advance request system with real-time Firestore integration
 
 ---
@@ -56,7 +27,7 @@ Computer Science Engineering student at **Indian Institute of Information Techno
 ## Recognition & Achievements
 
 **Academic Excellence**
--  B.Tech 8.96/10.0 CGPA
+-  B.Tech 9.05/10.0 CGPA
 
 **Industry Recognition**
 -  ACM ICPC Regionalist - Jane Street & JetBrains | January 2026
