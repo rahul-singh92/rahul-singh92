@@ -48,7 +48,7 @@ A collaborative task manager with role-based access, live Firestore sync across 
 </td>
 <td width="50%" valign="top">
 
-**My Setu** (Play Store, 1k+ downloads)
+**[My Setu](https://play.google.com/store/apps/details?id=com.jitendersingh.friendsengineer\&pcampaignid=web_share)** (Play Store, 1k+ downloads)
 *Java · Android SDK · Firebase*
 
 Shipped in production during my internship at Friends Engineers — automated wage-slip generation via iTextPDF/Apache POI (cutting processing time by 20%) and a real-time advance-request system on Firestore.
@@ -74,17 +74,6 @@ Shipped in production during my internship at Friends Engineers — automated wa
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,react,nextjs,nodejs,express,fastapi,postgres,mysql,firebase,supabase,git,github,vercel,androidstudio&theme=dark" />
 </p>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul-singh92&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-singh92&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul-singh92&theme=tokyo-night&hide_border=true" width="95%"/>
-</div>
 
 ---
 
